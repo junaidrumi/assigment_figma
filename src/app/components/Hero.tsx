@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
 
         <div>
-            <Image src='/public/hero-image.png' width={292} height={299} alt='profile picture'></Image>
+            <Image src='/hero-image.png' width={292} height={299} alt='profile picture'></Image>
         </div>
     </section>
   )
